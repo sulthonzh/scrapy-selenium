@@ -98,3 +98,9 @@ ENV/
 
 # MACOS stuff
 .DS_Store
+
+# Code Quality Supervisor additions
+.venv/
+.mypy_cache/
+*.tgz
+node_modules/
